@@ -1,7 +1,5 @@
 # Análise de Gênero e Faixa Etária dos eleitores
 
-[![Build Status](https://travis-ci.com/LucasACES/Projeto_integrador_2020-2.svg?branch=master)](https://travis-ci.com/LucasACES/Projeto_integrador_2020-2)
-
 *Dados de: 2020*
 
 |Desenvolvedores|Rede social|
