@@ -1,0 +1,14 @@
+jupyter
+pandas
+beautifulsoup
+wbdata
+matplotlib
+lxml
+pytrends
+seaborn
+numpy
+ipython
+xlrd
+markovify
+folium
+
