@@ -11,6 +11,8 @@
 
 # Base de dados
 
+Baixe este arquivo para que possa utilizar no arquivo de análise.
+
 - [Repositórios de dados eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
 
 
@@ -25,5 +27,17 @@
 # Como utilizar
 
 ```
+# (BASH GIT)
+# Clone o repositorio:
+$ git clone https://github.com/LucasACES/Analise-de-genero-e-faixa-etaria-de-eleitores.git
+
+#(Powershell)
+# Instale as dependencias contidos no requeriments.txt:
+$ pip install requeriments.txt
+
+# Inicie o jupyter notebook dentro da pasta clonada:
+$ jupyter notebook
+
+# No navegador acesse o arquivo "Análise de eleitores por gênero.ipynb"
 
 ```
